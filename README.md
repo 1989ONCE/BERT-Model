@@ -7,11 +7,8 @@ Sentiment Analysis implement by transformers (Using Pytorch)
   - label def: 
     - 0 for negative comment
     - 1 for positive comment
-### BERT MODEL(options)
+### BERT MODEL
 -> bert-base-uncased: 93% </br>
--> bert-base-cased: 87.4% </br>
--> distilbert-base-uncased </br>
--> RoberTa
 
 ### Best Result of Test Accuracy
 Test Accuracy = 0.93
